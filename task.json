@@ -1,20 +1,5 @@
-{
-  "config": {
-    "chainId": 1337,
-    "homesteadBlock": 0,
-    "eip150Block": 0,
-    "eip155Block": 0,
-    "eip158Block": 0,
-    "byzantiumBlock": 0,
-    "constantinopleBlock": 0,
-    "petersburgBlock": 0,
-    "istanbulBlock": 0,
-    "muirGlacierBlock": 0
-  }
-  
-  {
-  "difficulty": "1",
-  "extradata": "xoxb-1290010598099-1283117569622-EPZNd2YXnRgL5b0CHhxDl282",
-  "timestamp": "1596791339",
-  
-    "alloc": **3d6312d549b77a6abdec78631e39ddde5e377dcd** "balance": **99999999999999999999999999999** 
+"difficulty": 1
+"extradata": xoxb-1290010598099-1283117569622-EPZNd2YXnRgL5b0CHhxDl282
+"timestamp": 1596791339
+"alloc": 0x3d6312d549b77a6abdec78631e39ddde5e377dcd 
+"balance": 99999999999999999999999999999
